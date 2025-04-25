@@ -1,0 +1,6 @@
+# Ignore WSI from IVY Glioblastom Atlas and masks
+images/w1-1-2-n.1.02.jpg
+images/*_mask.*
+*.tiff
+# Ignore pycache
+__pycache__/

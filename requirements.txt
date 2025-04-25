@@ -1,0 +1,6 @@
+notebook            == 7.4.0
+matplotlib          == 3.10.1
+scikit-image        == 0.25.2
+numpy               == 2.2.5
+pyvips              == 2.2.3
+pillow              == 11.2.1
